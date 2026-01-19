@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there ☺️
 Computer Science student focused on building real-world coding skills through projects. Currently learning Python and foundational CS concepts. Interested in software development, AI, and cybersecurity.
 
 <!--
