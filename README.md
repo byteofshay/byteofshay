@@ -1,4 +1,5 @@
 ## Hi there 👋
+Computer Science student focused on building real-world coding skills through projects. Currently learning Python and foundational CS concepts. Interested in software development, AI, and cybersecurity.
 
 <!--
 **byteofshay/byteofshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
